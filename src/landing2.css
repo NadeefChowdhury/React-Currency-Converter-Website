@@ -1,0 +1,439 @@
+.elysiart{
+    margin-top: 6vh;
+}
+@media only screen and (min-width:1000px){
+    .elysiart{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .elysText{
+        width:50vw;
+        margin-left: 5vw;
+    }
+    .elysiart button{
+        width: 40vw;
+    }
+}
+@media only screen and (max-width:999px){
+    .elysiart{
+
+       margin-left: 15vw;
+        width:70vw
+        
+    
+    }
+    .elysiart img{
+        width:70vw
+    }
+}
+@media only screen and (min-width:1500px){
+    .missionText{
+        margin-top: 5vh;
+    }
+}
+@media only screen and (min-width:1400px) and (max-width:1499px){
+    .missionText{
+        margin-top: 5vh;
+    }
+}
+@media only screen and (min-width:1300px) and (max-width:1399px){
+    .missionText{
+        margin-top: 5vh;
+    }
+}
+@media only screen and (min-width:1000px){
+    .mission{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .missionText{
+        text-align: center;
+        width:45vw
+    }
+}
+@media only screen and (max-width:999px){
+    .mission{
+        margin-top: 5vh;
+        margin-left: 15vw;
+         width:70vw
+         
+     
+     }
+     .mission img{
+         width:70vw
+     }
+     .missionText p{
+         text-align: center;
+     }
+}
+@media only screen and (min-width:1900px) and (max-width:2000px){
+    .slider h3{
+        margin-left: 15vw;
+    }
+    .slidesImg{
+        margin-left: 10vw;
+    }
+    .slick-arrow{
+        width:10vw
+    }
+}
+
+@media only screen and (min-width:1800px) and (max-width:1899px){
+    .slider h3{
+        margin-left: 15vw;
+    }
+    .slidesImg{
+        margin-left: 10vw;
+    }
+    .slick-arrow{
+        width:10vw
+    }
+}
+
+@media only screen and (min-width:1700px) and (max-width:1799px){
+    .slider h3{
+        margin-left: 15vw;
+    }
+    .slidesImg{
+        margin-left: 10vw;
+    }
+    .slick-arrow{
+        width:10vw
+    }
+}
+
+@media only screen and (min-width:1600px) and (max-width:1699px){
+    .slider h3{
+        margin-left: 13vw;
+    }
+    .slidesImg{
+        margin-left: 3vw;
+        margin-right: 10vw;
+        padding-right: 3vw;
+    }
+    .slick-arrow{
+        width:2.5vw;
+        
+    }
+}
+
+@media only screen and (min-width:1500px) and (max-width:1599px){
+    .slider h3{
+        margin-left: 20vw;
+    }
+    .slidesImg{
+        margin-left: 10vw;
+        margin-right: 7vw;
+        padding-right: 2vw;
+    }
+    .slick-arrow{
+        width:2.5vw;
+        
+    }
+}
+
+@media only screen and (min-width:1400px) and (max-width:1499px){
+    .slider h3{
+        margin-left: 17vw;
+    }
+    .slidesImg{
+        margin-left: 8vw;
+        margin-right: 9vw;
+        padding-right: 1vw;
+    }
+    .slick-arrow{
+        width:4vw;
+        
+    }
+}
+
+@media only screen and (min-width:1300px) and (max-width:1399px){
+    .slider h3{
+        margin-left: 17vw;
+    }
+    .slidesImg{
+        margin-left: 8vw;
+        margin-right: 9vw;
+        padding-right: 1vw;
+    }
+    .slick-arrow{
+        width:4vw;
+        
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1299px){
+    .slider h3{
+        margin-left: 17vw;
+    }
+    .slidesImg{
+        margin-left: 8vw;
+        margin-right: 9vw;
+        padding-right: 1vw;
+    }
+    .slick-arrow{
+        width:4vw;
+        
+    }
+}
+
+@media only screen and (min-width:1100px) and (max-width:1199px){
+    .slider h3{
+        margin-left: 17vw;
+    }
+    .slidesImg{
+        margin-left: 8vw;
+        margin-right: 9vw;
+        padding-right: 1vw;
+    }
+    .slick-arrow{
+        width:4vw;
+        
+    }
+}
+
+@media only screen and (min-width:1000px) and (max-width:1099px){
+    .slider h3{
+        margin-left: 17vw;
+    }
+    .slidesImg{
+        margin-left: 12vw;
+        margin-right: 9vw;
+        padding-right: 1vw;
+    }
+    .slick-arrow{
+        width:4vw;
+        
+    }
+}
+@media only screen and (min-width:1001px) and (max-width:1030px){
+    .slider h3{
+        margin-left: 17vw;
+    }
+    .slidesImg{
+        margin-left: 7vw;
+        margin-right: 9vw;
+        padding-right: 1vw;
+    }
+    .slick-arrow{
+        width:4vw;
+        
+    }
+}
+@media only screen and (min-width:650px) and (max-width:999px){
+    .slider h3{
+        text-align: center;
+        margin-top: 5vh;
+    }
+    .slidesImg{
+        margin: 0 auto;
+        width:50vw;
+        padding-left: 4vw
+    }
+    .slick-arrow{
+        width: 5vw;
+    }
+}
+@media only screen and (min-width:602px) and (max-width:649px){
+    .slider h3{
+        text-align: center;
+        margin-top: 5vh;
+    }
+    .slidesImg{
+        margin: 0 auto;
+        width:58vw;
+        padding-left: 5vw
+    }
+    .slick-arrow{
+        width: 4vw;
+    }
+}
+@media only screen and (min-width:501px) and (max-width:601px){
+    .slider h3{
+        margin-left: 38vw;
+        margin-top: 5vh;
+    }
+    .slidesImg{
+       margin-left: 17vw;
+        padding-left: 5vw;
+        margin-right: 50vw;
+
+    }
+    .slick-arrow{
+        width: 5vw;
+    }
+}
+@media only screen and (min-width:402px) and (max-width:500px){
+    .slider h3{
+        margin-left: 35vw;
+        margin-top: 5vh;
+    }
+    .slidesImg{
+       margin-left: 14vw;
+        padding-left: 5vw;
+        margin-right: 50vw;
+
+    }
+    .slick-arrow{
+        width: 5vw;
+    }
+    .sliderimg{
+        width:230px;
+        height:230px
+    }
+}
+@media only screen and (min-width:380px) and (max-width:401px){
+    .slider h3{
+        margin-left: 35vw;
+        margin-top: 5vh;
+    }
+    .slidesImg{
+       margin-left: 7vw;
+        padding-left: 5vw;
+        margin-right: 45vw;
+
+    }
+    .slick-arrow{
+        width: 5vw;
+    }
+    .sliderimg{
+        width:266px;
+        height:256px
+    }
+}
+@media only screen and (min-width:320px) and (max-width:379px){
+    .slider h3{
+        margin-left: 30vw;
+        margin-top: 5vh;
+    }
+    .slidesImg{
+       margin-left: 7vw;
+        padding-left: 5vw;
+        margin-right: 45vw;
+
+    }
+    .slick-arrow{
+        width: 5vw;
+    }
+    .sliderimg{
+        width:230px;
+        height:230px
+    }
+}
+@media only screen and (min-width:1500px) and (max-width:2000px){
+    .heroes{
+        margin-left: 15vw;
+    }
+    .heroes h3{
+        margin-left: 3vw;
+    }
+    .heroesImg{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        
+    }
+    .heroesImg .img{
+        width:24vw
+    }
+    }
+
+    @media only screen and (min-width:1000px) and (max-width:1500px){
+        .heroes{
+            margin-left: 10vw;
+        }
+        .heroes h3{
+            margin-left: 3vw;
+        }
+        .heroesImg{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            
+        }
+        .heroesImg .img{
+            width:24vw
+        }
+        }
+        @media only screen and (min-width:721px) and (max-width:999px){
+            .heroes{
+                text-align: center;
+                
+            }
+            .heroesImg{
+                display: grid;
+                grid-template-columns: 1fr ;
+            }
+            .heroesImg .img{
+                margin-bottom: 5vh;
+            }
+        }        
+@media only screen and (min-width:501px) and (max-width:720px){
+    .heroes{
+        text-align: center;
+        margin-left: 8vw;
+    }
+    .heroesImg{
+        display: grid;
+        grid-template-columns: 1fr ;
+    }
+    .heroesImg .img{
+        margin-bottom: 5vh;
+    }
+}
+@media only screen and (min-width:401px) and (max-width:500px){
+    .heroes h3{
+        margin-left: 36vw;
+    }
+    .heroesImg{
+        display: grid;
+        grid-template-columns: 1fr ;
+        margin-left: 10vw;
+    }
+    .heroesImg .img{
+        margin-bottom: 5vh;
+    }
+    
+}
+@media only screen and (max-width:400px){
+ .heroes h3{
+     margin-left: 30vw;
+ }
+ .heroesImg .img{
+     width: 300px;
+     margin-left: 8vw;
+ }
+ .heroesImg .img{
+    margin-bottom: 5vh;
+}
+}
+@media only screen and (min-width:999px){
+    .bottom{
+        display:grid;
+        grid-template-columns: 1fr 1fr;
+        
+    }
+    .bottom p{
+        margin-left: 10vw;
+    }
+}
+@media only screen and (max-width:998px){
+    .bottom{
+        display:grid;
+        grid-template-columns: 1fr ;
+        width: 100vw
+        
+    }
+    .bottom p{
+       text-align:center
+    }
+}
+@media only screen and (min-width:1400px){
+    .bottom button{
+        width:20vw;
+        margin-left: 10vw;
+    }
+}
+@media only screen and (max-width:1399px){
+    .bottom button{
+        width:20vw
+    }
+}
