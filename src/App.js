@@ -15,7 +15,7 @@ const App = () => {
   const from_to = currency1.from + '_' + currency2.to;
   const handleSubmit = async(e) =>{
     e.preventDefault();
-    const response = await axios.get(`http://free.currconv.com/api/v7/convert?q=${from_to}&compact=ultra&apiKey=469500877fc5c7a51ce1`);
+    const response = await axios.get(`http://free.currconv.com/api/v7/convert?q=${from_to}&compact=ultra&apiKey=[USE YOUR OWN API KEY HERE]`);
     
     setAnswer({answer:response.data[from_to]});
     
